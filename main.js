@@ -25,14 +25,14 @@ Things to reflect on:
 */
 
 let firstName = "Alice";
-let itmesBought = 5;
+let itemsBought = 5;
 let $dollarsSpent = 20;
 let city = " Austin";
 let month = "July";
 let fullSentence =
   firstName +
   " bought " +
-  itmesBought +
+  itemsBought +
   " items for $" +
   $dollarsSpent +
   " in the city of" +
